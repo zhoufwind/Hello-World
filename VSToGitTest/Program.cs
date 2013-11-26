@@ -11,7 +11,7 @@ namespace VSToGitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hi, this is just a test for uploading project to GitHub");
-            Console.Writeline("*******************************************************");
+            Console.WriteLine("This is the update");
             Console.ReadLine();
         }
     }
